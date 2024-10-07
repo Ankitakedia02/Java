@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
-public class Test {
+public class StreamAPIPractice2 {
 
     public void testMethod(){
 
